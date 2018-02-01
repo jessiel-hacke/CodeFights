@@ -19,7 +19,7 @@
   - [ ] Sorting (0/5)
   - [ ] Dynamic Programming: Basic (0/5)
   - [ ] Dynamic Programming: Advanced (0/5)
-  - [ ] Common Techniques: Basic (0/7)
+  - [ ] Common Techniques: Basic (5/7)
   - [ ] String (1/6)
   - [ ] Bits (0/5)
   - [ ] Common Techniques: Advanced (0/5)
